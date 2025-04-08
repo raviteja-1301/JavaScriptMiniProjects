@@ -1,2 +1,2 @@
 # JavaScriptProjects
-All JavaScript project build by me.
+All JavaScript Mini project build by me.
