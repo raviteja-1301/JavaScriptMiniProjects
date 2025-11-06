@@ -1,2 +1,2 @@
 # JavaScriptProjects
-All JavaScript Mini project build by me.
+Fun games in vanilla javaScript.
